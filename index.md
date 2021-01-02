@@ -24,8 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: Chris Walter<br><strong>analytics</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Providing insight through <br>modeling.
   cta:
     enabled: true
     url: www.linkedin.com/in/chriswalterphd
