@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: About
   - link: "#projects"
-    link_text: Projects
+    link_text: Projects & Publications
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
