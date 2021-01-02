@@ -16,8 +16,8 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: 'sdfsd sd '
+  content: sd sds sd s
   cta:
     enabled: false
     url: ''
