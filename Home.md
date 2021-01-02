@@ -4,7 +4,7 @@ logo: ''
 navigation:
 - link: ''
   link_text: ''
-- link: ''
+- link: "/"
   link_text: About
 cta:
   url: ''
