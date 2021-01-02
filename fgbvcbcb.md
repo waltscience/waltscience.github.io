@@ -22,5 +22,8 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2018/06/21/edit.gif"
 
 ---
