@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
-  - link: "#Projects and Publications"
+  - link: "#Projects"
     link_text: Projects and Publications
   - link: "#customize"
     link_text: Customize
