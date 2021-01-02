@@ -28,8 +28,8 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: www.linkedin.com/in/chriswalterphd
+    button_text: Connect on linkedin
   image:
     image: ''
     alt_text: Product Shot
