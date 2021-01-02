@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "#projects"
     link_text: Projects
-  - link: "#customize"
-    link_text: Customize
+  - link: "#publications"
+    link_text: Publications
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
