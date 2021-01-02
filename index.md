@@ -23,8 +23,6 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "#contact"
-    link_text: Contact
   - link: "/"
     link_text: Home
   - link: "#news"
@@ -33,6 +31,8 @@ page_sections:
     link_text: Projects
   - link: "#publications"
     link_text: Publications
+  - link: "#contact"
+    link_text: Contact
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
