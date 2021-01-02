@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: <img src="/uploads/2018/06/21/forestry-full.svg">Chris Walter<br><strong>analytics</strong>
+  headline: Chris Walter<br><strong>analytics</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
