@@ -30,8 +30,8 @@ page_sections:
   background_image: "/uploads/2021/01/03/4.jpg"
 - template: simple-footer
   block: footer-1
-  content: <br><a href="mailto:cwalte12@mail.wvu.edu" title="Email"><img src="/uploads/2021/01/03/emailcrop.jpg"></a><a
-    href="https://linkedin.com/in/chriswalterphd" title="linkedin"><img src="/uploads/2021/01/03/linkedin.png"></a><a
+  content: <br><a href="mailto:cwalte12@mail.wvu.edu" title="Email"><img src="/uploads/2021/01/03/emailcrop.jpg"></a>      <a
+    href="https://linkedin.com/in/chriswalterphd" title="linkedin"><img src="/uploads/2021/01/03/linkedin.png"></a>      <a
     href="https://github.com/waltscience" title="Github"><img src="/uploads/2021/01/03/github.png"></a>
 - template: simple-footer
   block: footer-1
