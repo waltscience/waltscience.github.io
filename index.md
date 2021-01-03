@@ -8,8 +8,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#news"
-    link_text: News
+  - link: "#education"
+    link_text: Education
   - link: "#projects"
     link_text: Projects
   - link: "#publications"
