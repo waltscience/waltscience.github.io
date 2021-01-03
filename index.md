@@ -70,5 +70,12 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
   slug: blocks
+- template: simple-footer
+  block: footer-1
+  content: ''
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/03/logo.jpg"
+  navigation: []
 
 ---
