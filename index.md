@@ -29,7 +29,7 @@ page_sections:
   image:
     image: ''
     alt_text: Product Shot
-  background_image: "/uploads/2021/01/03/presentation1.jpg"
+  background_image: "/uploads/2021/01/03/headbgrd.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
