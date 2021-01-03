@@ -20,7 +20,7 @@ page_sections:
   content: Providing insight with data-driven<br>inquiry and modeling
   cta:
     enabled: true
-    url: www.linkedin.com/in/chriswalterphd
+    url: https://linkedin.com/in/chriswalterphd
     button_text: Connect on linkedin
   image:
     image: ''
