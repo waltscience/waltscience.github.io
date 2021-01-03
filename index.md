@@ -32,7 +32,7 @@ page_sections:
   background_image: "/uploads/2021/01/03/4.jpg"
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2021/01/03/featured.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
