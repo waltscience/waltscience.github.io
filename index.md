@@ -16,7 +16,7 @@ page_sections:
     link_text: Publications
   - link: "#contact"
     link_text: Contact
-  logo: "/uploads/2021/01/03/logo_size.jpg"
+  logo: "/uploads/2021/01/03/logo.jpg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
