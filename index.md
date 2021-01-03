@@ -32,7 +32,7 @@ page_sections:
   background_image: "/uploads/2021/01/03/4.jpg"
 - template: simple-footer
   block: footer-1
-  content: <img src="/uploads/2021/01/03/featured.jpg">
+  content: <img src="/uploads/2021/01/03/feat.jpg">
 - template: content-feature
   block: feature-1
   media_alignment: Left
