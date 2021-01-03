@@ -35,8 +35,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: portfolio
-  headline: <strong>Projects<span class="light"><br></span></strong><span class="light">in
-    analytics and research</span>
+  headline: <strong>Portfolio </strong>of<span class="light"> analytics <br>projects
+    and skills</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
