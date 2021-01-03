@@ -30,6 +30,15 @@ page_sections:
     image: ''
     alt_text: Product Shot
   background_image: "/uploads/2021/01/03/4.jpg"
+- template: simple-header
+  block: header-3
+  logo: ''
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: ''
+  col_3: ''
+  col_4: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -103,5 +112,8 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: simple-header
+  block: header-3
+  logo: ''
 
 ---
