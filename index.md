@@ -88,7 +88,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <br><a href="mailto:cwalte12@mail.wvu.edu" title="Email"><img src="/uploads/2021/01/03/emailcrop.jpg"></a><a
-    href="www.linkedin.com/in/chriswalterphd" title="Linkedin"><img src="/uploads/2021/01/03/linkedin.png"></a><a
+    href="www.linkedin.com/in/chriswalterphd" title="linkedin"><img src="/uploads/2021/01/03/linkedin.png"></a><a
     href="https://github.com/waltscience" title="Github"><img src="/uploads/2021/01/03/github.png"></a>
 
 ---
