@@ -41,6 +41,20 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -88,12 +102,12 @@ page_sections:
   block: three-column-1
   col_1:
     content: <img src="/uploads/2021/01/03/email.jpg">
-    headline: "  "
+    headline: "  Contact"
     slug: contact
   col_2:
-    headline: Contact
     slug: ''
     content: <img src="/uploads/2021/01/03/linkedin.png">
+    headline: ''
   col_3:
     headline: "      "
     slug: ''
