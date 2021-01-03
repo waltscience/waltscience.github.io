@@ -57,7 +57,7 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: <img src="/uploads/2021/01/03/nbs.jpg">
 - template: content-feature
   block: feature-1
   media_alignment: Right
