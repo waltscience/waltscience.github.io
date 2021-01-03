@@ -77,7 +77,9 @@ page_sections:
     headline: ''
     slug: ''
   col_2:
-    content: ''
+    content: <a href="mailto:cwalte12@mail.wvu.edu" title="email2"><img src="/uploads/2021/01/03/emailsmall.jpg"></a><a
+      href="https://linkedin.com/in/chriswalterphd" title="linkedin2"><img src="/uploads/2021/01/03/linkedinsmall.png"></a><a
+      href="https://github.com/waltscience" title="github2"><img src="/uploads/2021/01/03/githubsmall.png"></a>
     headline: ''
     slug: ''
   col_3:
