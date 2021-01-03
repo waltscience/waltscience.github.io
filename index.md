@@ -36,7 +36,7 @@ page_sections:
   col_1:
     headline: "&nbsp"
     slug: ''
-    content: <img src="/uploads/2021/01/03/ps.jpg">
+    content: <br><br><br><img src="/uploads/2021/01/03/ps.jpg">
   col_2:
     slug: ''
     content: <img src="/uploads/2021/01/03/te.jpg">
