@@ -71,8 +71,8 @@ page_sections:
     slug: contact
   col_2:
     headline: ''
-    slug: ''
-    content: ''
+    slug: contact
+    content: <img src="/uploads/2021/01/03/linkedin.png">
   col_3:
     headline: ''
     slug: ''
