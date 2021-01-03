@@ -51,7 +51,7 @@ page_sections:
   slug: portfolio
   headline: <strong>Portfolio </strong>of<span class="light"> analytics <br>projects
     and skills</span>
-  content: Using data to answer difficult questions.
+  content: ''
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
