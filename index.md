@@ -109,5 +109,9 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: ''
+- template: detail-content
+  block: text-1
+  headline: sdfsdf
+  content: "<p>sdfsdfdsdsfdsf</p>"
 
 ---
