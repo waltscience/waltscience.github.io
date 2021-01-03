@@ -40,11 +40,6 @@ page_sections:
     headline: ''
     slug: ''
     content: <img src="/uploads/2021/01/03/nbs.jpg">
-- template: simple-footer
-  block: footer-1
-  content: <a href="mailto:cwalte12@mail.wvu.edu" title="mail"><img src="/uploads/2021/01/03/emailcrop.jpg"></a><a
-    href="https://linkedin.com/in/chriswalterphd" title="linkedin"><img src="/uploads/2021/01/03/linkedin.png"></a><a
-    href="https://github.com/waltscience" title="github"><img src="/uploads/2021/01/03/github.png"></a>
 - template: content-feature
   block: feature-1
   media_alignment: Left
