@@ -71,20 +71,6 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
   slug: blocks
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: <img src="/uploads/2021/01/03/email.jpg">
-    slug: cont
-    headline: ''
-  col_2:
-    slug: ''
-    content: <img src="/uploads/2021/01/03/linkedin.png">
-    headline: ''
-  col_3:
-    headline: "      "
-    slug: ''
-    content: <img src="/uploads/2021/01/03/github.png">
 - template: simple-footer
   block: footer-1
   content: <br><a href="mailto:cwalte12@mail.wvu.edu" title="Email"><img src="/uploads/2021/01/03/emailcrop.jpg"></a><a
