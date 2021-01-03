@@ -59,7 +59,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: publications
-  headline: <strong>Publications</strong><span class="light"> featuring </span>
+  headline: <strong>Publications</strong><span class="light"> featuring<br>experimental
+    design and modeling</span>
   content: Each block comes with custom Front Matter that can be edited in Forestry
     CMS.
   media:
