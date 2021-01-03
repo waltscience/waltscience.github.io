@@ -66,10 +66,9 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: Does oinfoinsdf?<br><a href="" title="" target="_blank"><img src="/uploads/2018/06/21/product-shot-1.png"></a><br><a
-      href="" title="" target="_blank">report</a>  code
-    headline: Does linidnifnfds ds sdfdsn fsd?
-    slug: ''
+    content: <img src="/uploads/2021/01/03/email.jpg">
+    headline: ''
+    slug: contact
   col_2:
     headline: ''
     slug: ''
