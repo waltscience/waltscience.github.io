@@ -77,8 +77,22 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/01/03/ps.jpg"
-  col_2: Copyright <strong>© </strong>2021<br>Chris Walter
+  col_2: Copyright <strong>© </strong>2021 Chris Walter
   col_3: ''
   col_4: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <img src="/uploads/2021/01/03/logo.jpg">
+    headline: ''
+    slug: ''
+  col_2:
+    content: Copyright <strong>© </strong>2021 Chris Walter
+    headline: ''
+    slug: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
