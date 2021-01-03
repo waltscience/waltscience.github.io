@@ -99,7 +99,7 @@ page_sections:
   block: three-column-1
   col_1:
     content: <img src="/uploads/2021/01/03/email.jpg">
-    slug: contact
+    slug: cont
     headline: ''
   col_2:
     slug: ''
