@@ -76,7 +76,7 @@ page_sections:
       href="https://linkedin.com/in/chriswalterphd" title="linkedin2"><img src="/uploads/2021/01/03/linkedinsmall.png"></a><a
       href="https://github.com/waltscience" title="github2"><img src="/uploads/2021/01/03/githubsmall.png"></a>
     headline: Contact
-    slug: ''
+    slug: contact
   col_3:
     headline: ''
     slug: ''
