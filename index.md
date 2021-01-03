@@ -70,16 +70,13 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
   slug: blocks
-- template: simple-footer
-  block: footer-1
-  content: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/03/logo.jpg"
   navigation: []
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/01/03/logo.jpg"
+  image: "/uploads/2021/01/03/ps.jpg"
   col_2: Copyright <strong>© </strong>2021 Chris Walter
   col_3: ''
   col_4: ''
