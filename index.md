@@ -103,8 +103,8 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: ''
-  col_2: <img src="/uploads/2021/01/03/liicon.png">
-  col_3: <img src="/uploads/2021/01/03/emicon.jpg">
-  col_4: <img src="/uploads/2021/01/03/ghicon.png">
+  col_2: <img src="/uploads/2021/01/03/emicon-1.jpg">
+  col_3: <img src="/uploads/2021/01/03/liicon-1.png">
+  col_4: <img src="/uploads/2021/01/03/ghicon-1.png">
 
 ---
