@@ -77,12 +77,12 @@ page_sections:
     headline: ''
     slug: ''
   col_2:
-    content: Copyright <strong>© </strong>2021<br>Chris Walter
+    content: ''
     headline: ''
     slug: ''
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: Copyright <strong>© </strong>2021<br>Chris Walter
 
 ---
