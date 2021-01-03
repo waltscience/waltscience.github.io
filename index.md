@@ -37,8 +37,7 @@ page_sections:
   slug: portfolio
   headline: <strong>Portfolio </strong>of<span class="light"> analytics <br>projects
     and skills</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  content: Using data to answer difficult questions.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
