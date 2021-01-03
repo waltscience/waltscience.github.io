@@ -7,6 +7,12 @@ fields:
   label: block
   name: block
   default: feature-1
+- name: color
+  type: color
+  label: color
+  config:
+    required: false
+    color_format: Hex
 - type: textarea
   name: headline
   label: Headline
@@ -44,9 +50,3 @@ fields:
     - Right
   label: Media Alignment
   default: Right
-- name: color
-  type: color
-  label: color
-  config:
-    required: false
-    color_format: Hex
