@@ -29,7 +29,7 @@ page_sections:
   image:
     image: ''
     alt_text: Product Shot
-  background_image: "/uploads/2021/01/03/integrating_microbes_into_models.jpg"
+  background_image: "/uploads/2018/06/21/edit.gif"
 - template: content-feature
   block: feature-1
   media_alignment: Left
