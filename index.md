@@ -33,20 +33,12 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <strong><em>Featured in</em></strong><br><img src="/uploads/2021/01/03/featured-1.jpg">
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <pre><code>uBuild is an open-source Jekyll based demo that doubles as a
-    builder tool inside the Forestry content manager.</code></pre><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&amp;provider=github&amp;engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: projects
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
+  slug: education
+  headline: <strong>Education<span class="light"> <br></span></strong><span class="light">the
+    Blocks to create sites quickly</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
