@@ -23,7 +23,7 @@ page_sections:
     url: https://linkedin.com/in/chriswalterphd
     button_text: Connect on linkedin
   image:
-    image: "/uploads/2021/01/03/screen-shot-2021-01-03-at-5-05-39-pm.png"
+    image: "/uploads/2021/01/03/nh1.png"
     alt_text: Chris
   background_image: "/uploads/2021/01/03/presentation2.jpg"
 - template: 3-column-text
