@@ -44,3 +44,9 @@ fields:
     - Right
   label: Media Alignment
   default: Right
+- name: color
+  type: color
+  label: color
+  config:
+    required: false
+    color_format: Hex
