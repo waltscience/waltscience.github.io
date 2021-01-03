@@ -8,8 +8,6 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#education"
-    link_text: Education
   - link: "#projects"
     link_text: Projects
   - link: "#publications"
@@ -65,9 +63,6 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
   slug: blocks
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -102,5 +97,8 @@ page_sections:
   block: text-1
   headline: sdfsdf
   content: "<p>sdfsdfdsdsfdsf</p>"
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Canada
 
 ---
