@@ -8,8 +8,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#projects"
-    link_text: Projects
+  - link: "#portfolio"
+    link_text: Portfolio
   - link: "#publications"
     link_text: Publications
   - link: "#contact"
