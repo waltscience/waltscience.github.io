@@ -40,7 +40,7 @@ page_sections:
   col_2:
     slug: ''
     content: <img src="/uploads/2021/01/03/te.jpg">
-    headline: "&nbsp"
+    headline: Featured in
   col_3:
     headline: ''
     slug: ''
