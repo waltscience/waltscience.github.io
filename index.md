@@ -34,8 +34,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: education
-  headline: <strong>Education<span class="light"> <br></span></strong><span class="light">in
+  slug: projects
+  headline: <strong>Projects<span class="light"><br></span></strong><span class="light">in
     analytics and research</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
@@ -63,20 +63,6 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
   slug: blocks
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: <img src="/uploads/2021/01/03/email.jpg">
-    headline: "  "
-    slug: contact
-  col_2:
-    headline: Contact
-    slug: ''
-    content: <img src="/uploads/2021/01/03/linkedin.png">
-  col_3:
-    headline: ''
-    slug: ''
-    content: <img src="/uploads/2021/01/03/github.png">
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
@@ -99,11 +85,19 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: 4-column-footer
-  block: footer-2
-  image: ''
-  col_2: <img src="/uploads/2021/01/03/email.jpg">
-  col_3: <img src="/uploads/2021/01/03/linkedin.png">
-  col_4: <img src="/uploads/2021/01/03/github.png">
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <img src="/uploads/2021/01/03/email.jpg">
+    headline: "  "
+    slug: contact
+  col_2:
+    headline: Contact
+    slug: ''
+    content: <img src="/uploads/2021/01/03/linkedin.png">
+  col_3:
+    headline: "      "
+    slug: ''
+    content: <img src="/uploads/2021/01/03/github.png">
 
 ---
