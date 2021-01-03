@@ -68,14 +68,14 @@ page_sections:
   col_1:
     content: <img src="/uploads/2021/01/03/email.jpg">
     headline: ''
-    slug: contact
+    slug: ''
   col_2:
-    headline: ''
+    headline: Contact
     slug: contact
     content: <img src="/uploads/2021/01/03/linkedin.png">
   col_3:
     headline: ''
-    slug: contact
+    slug: ''
     content: <img src="/uploads/2021/01/03/github.png">
 - template: hero-banner-w-image
   block: hero-2
