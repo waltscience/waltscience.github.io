@@ -102,9 +102,9 @@ page_sections:
   content: Made with ❤︎ in Canada
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/01/03/emicon.jpg"
+  image: ''
   col_2: <img src="/uploads/2021/01/03/liicon.png">
-  col_3: ''
-  col_4: ''
+  col_3: <img src="/uploads/2021/01/03/emicon.jpg">
+  col_4: <img src="/uploads/2021/01/03/ghicon.png">
 
 ---
