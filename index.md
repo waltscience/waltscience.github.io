@@ -66,35 +66,11 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: Education
-  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
   slug: blocks
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-- template: simple-header
-  block: header-3
-  logo: ''
-- template: detail-content
-  block: text-1
-  headline: sdfsdf
-  content: "<p>sdfsdfdsdsfdsf</p>"
 - template: 3-column-text
   block: three-column-1
   col_1:
