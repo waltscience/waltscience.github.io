@@ -61,8 +61,7 @@ page_sections:
   slug: publications
   headline: <strong>Publications</strong><span class="light"> featuring<br>experimental
     design and modeling</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  content: ''
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
