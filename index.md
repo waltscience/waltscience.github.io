@@ -29,7 +29,7 @@ page_sections:
   image:
     image: ''
     alt_text: Product Shot
-  background_image: ''
+  background_image: "/uploads/2021/01/03/screen-shot-2021-01-02-at-7-02-06-pm.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
