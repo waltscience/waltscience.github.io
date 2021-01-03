@@ -75,8 +75,8 @@ page_sections:
     content: <img src="/uploads/2021/01/03/linkedin.png">
   col_3:
     headline: ''
-    slug: ''
-    content: ''
+    slug: contact
+    content: <img src="/uploads/2021/01/03/github.png">
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
