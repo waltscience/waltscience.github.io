@@ -83,7 +83,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <img src="/uploads/2021/01/03/logo.jpg">
+    content: <a href="/" title="home"><img src="/uploads/2021/01/03/logo.jpg"></a>
     headline: ''
     slug: ''
   col_2:
