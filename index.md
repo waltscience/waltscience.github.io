@@ -34,7 +34,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: "&nbsp"
+    headline: Featured in
     slug: ''
     content: <img src="/uploads/2021/01/03/ps.jpg">
   col_2:
