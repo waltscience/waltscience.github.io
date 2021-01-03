@@ -17,10 +17,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: Chris Walter<br><strong>analytics</strong>
-  content: Providing insight with data-driven<br>inquiry and modeling<br><a href="mailto:cwalte12@mail.wvu.edu"
-    title="mail"><img src="/uploads/2021/01/03/emailsmall.jpg"></a><a href="https://linkedin.com/in/chriswalterphd"
-    title="linked"><img src="/uploads/2021/01/03/linkedinsmall.png"></a><a href="https://github.com/waltscience"
-    title="git"><img src="/uploads/2021/01/03/githubsmall.png"></a>
+  content: Providing insight with data-driven<br>inquiry and modeling<br><img src="/uploads/2021/01/03/657781-middle.png">
   cta:
     enabled: false
     url: www.linkedin.com/in/chriswalterphd
