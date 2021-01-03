@@ -58,9 +58,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
+  slug: publications
+  headline: <strong>Publications</strong><span class="light"> featuring </span>
   content: Each block comes with custom Front Matter that can be edited in Forestry
     CMS.
   media:
