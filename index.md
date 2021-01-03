@@ -34,7 +34,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: projects
+  slug: portfolio
   headline: <strong>Projects<span class="light"><br></span></strong><span class="light">in
     analytics and research</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
