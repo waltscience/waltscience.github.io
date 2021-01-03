@@ -21,7 +21,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: Chris Walter<br><strong>analytics</strong>
-  content: Providing insight with data-driven<br>inquiry and modeling
+  content: Providing insight with data-driven<br>inquiry and modeling<br><br><br><br>appearing
+    in pop
   cta:
     enabled: true
     url: www.linkedin.com/in/chriswalterphd
