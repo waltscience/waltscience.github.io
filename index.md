@@ -37,8 +37,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: education
-  headline: <strong>Education<span class="light"> <br></span></strong><span class="light">the
-    Blocks to create sites quickly</span>
+  headline: <strong>Education<span class="light"> <br></span></strong><span class="light">in
+    analytics and research</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
