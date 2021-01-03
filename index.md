@@ -53,7 +53,7 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: <img src="/uploads/2021/01/03/te.jpg">
   col_3:
     headline: ''
     slug: ''
