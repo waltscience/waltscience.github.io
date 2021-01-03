@@ -76,5 +76,20 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <img src="/uploads/2018/06/21/product-shot-1.png"><br><a href="" title=""
+      target="_blank">report</a>  code
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
