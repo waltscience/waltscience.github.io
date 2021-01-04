@@ -92,11 +92,6 @@ page_sections:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
   color: "#FFFFFF"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -113,5 +108,48 @@ page_sections:
     headline: ''
     slug: ''
     content: Copyright <strong>© </strong>2021<br>Chris Walter
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks
+  slug: blocks
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  color: "#CE2525"
+  headline: kjkjb
+  content: jhvjhjh
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
