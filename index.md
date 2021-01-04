@@ -46,7 +46,7 @@ page_sections:
   slug: portfolio
   headline: <strong>Portfolio </strong>of<span class="light"> analytics <br>projects
     and skills</span>
-  content: Visit my <a href="waltscienceblog.github.io" title="Articles">articles
+  content: Visit my <a href="https://waltscienceblog.github.io" title="Articles">articles
     page</a> for more projects
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
