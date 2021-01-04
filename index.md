@@ -91,7 +91,7 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-  color: "#6D1818"
+  color: "#FFFFFF"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
