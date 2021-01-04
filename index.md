@@ -51,6 +51,20 @@ page_sections:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
   color: "#F5A623"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Are fantasy football rankings accurate?
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
