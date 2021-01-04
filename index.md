@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2021/01/03/screen-shot-2021-01-03-at-5-39-11-pm.png"
     alt_text: Chris
-  background_image: "/uploads/2021/01/04/bgrd2.jpg"
+  background_image: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
