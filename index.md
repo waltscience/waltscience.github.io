@@ -86,11 +86,12 @@ page_sections:
   slug: publications
   headline: <strong>Publications</strong><span class="light"> featuring<br>experimental
     design and modeling</span>
-  content: ''
+  content: For a complete list of publications,<br>visit my <a href="https://scholar.google.com/citations?hl=en&amp;user=wfn0gRYAAAAJ&amp;view_op=list_works&amp;sortby=pubdate"
+    title="Google citations">google scholar page</a>
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-  color: ''
+  color: "#6D1818"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
