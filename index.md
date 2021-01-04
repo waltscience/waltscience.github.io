@@ -40,6 +40,20 @@ page_sections:
     headline: ''
     slug: ''
     content: <img src="/uploads/2021/01/03/nbs.jpg">
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Do some people have more power than others do elect a president?
+    slug: ''
+    content: ''
+  col_2:
+    headline: Does living in a healthy county protect you from coronavirus?
+    slug: ''
+    content: ''
+  col_3:
+    headline: 'Multi-model inference in R: A tutorial'
+    slug: ''
+    content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
