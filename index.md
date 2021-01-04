@@ -29,17 +29,17 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Do some people have more power than others do elect a president?
+    headline: Featured in
     slug: ''
-    content: ''
+    content: <img src="/uploads/2021/01/03/ps.jpg">
   col_2:
-    headline: Does living in a healthy county protect you from coronavirus?
     slug: ''
-    content: ''
+    content: <img src="/uploads/2021/01/03/te.jpg">
+    headline: "&nbsp"
   col_3:
-    headline: 'Multi-model inference in R: A tutorial'
+    headline: ''
     slug: ''
-    content: ''
+    content: <img src="/uploads/2021/01/03/nbs.jpg">
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -54,6 +54,20 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
+    headline: Do some people have more power than others do elect a president?
+    slug: ''
+    content: ''
+  col_2:
+    headline: Does living in a healthy county protect you from coronavirus?
+    slug: ''
+    content: ''
+  col_3:
+    headline: 'Multi-model inference in R: A tutorial'
+    slug: ''
+    content: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
     headline: Are fantasy football rankings accurate?
     slug: ''
     content: ''
@@ -65,20 +79,6 @@ page_sections:
     headline: Is sentiment among academic job seekers changing?
     slug: ''
     content: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: Featured in
-    slug: ''
-    content: <img src="/uploads/2021/01/03/ps.jpg">
-  col_2:
-    slug: ''
-    content: <img src="/uploads/2021/01/03/te.jpg">
-    headline: "&nbsp"
-  col_3:
-    headline: ''
-    slug: ''
-    content: <img src="/uploads/2021/01/03/nbs.jpg">
 - template: content-feature
   block: feature-1
   media_alignment: Right
