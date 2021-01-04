@@ -122,17 +122,12 @@ page_sections:
     headline: ''
     slug: ''
     content: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: 3-column-text
   block: three-column-1
   col_1:
+    content: <a href="https://chriswalter.info" title="Home"><img src="/uploads/2021/01/03/logosmall.jpg"></a>
     headline: ''
     slug: ''
-    content: ''
   col_2:
     headline: ''
     slug: ''
@@ -141,15 +136,5 @@ page_sections:
     headline: ''
     slug: ''
     content: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  color: "#CE2525"
-  headline: kjkjb
-  content: jhvjhjh
-  slug: ''
-  media:
-    image: ''
-    alt_text: ''
 
 ---
