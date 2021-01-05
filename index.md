@@ -66,7 +66,8 @@ page_sections:
     slug: ''
     content: <a href="https://waltscienceblog.github.io/retailsales/" title="Retail"><img
       src="/uploads/2021/01/05/money-1.jpg"></a><br><a href="https://waltscienceblog.github.io/retailsales/"
-      title="Retail report">Report</a>  |  Code
+      title="Retail report">Report</a>  |  <a href="https://github.com/waltscience/retailspending"
+      title="Retail code">Code</a>
   col_3:
     headline: Is sentiment among academic job seekers changing?
     slug: ''
