@@ -64,7 +64,9 @@ page_sections:
   col_2:
     headline: Are we changing the way we spend?
     slug: ''
-    content: <img src="/uploads/2021/01/05/money-1.jpg">
+    content: <a href="https://waltscienceblog.github.io/retailsales/" title="Retail"><img
+      src="/uploads/2021/01/05/money-1.jpg"></a><br><a href="https://waltscienceblog.github.io/retailsales/"
+      title="Retail report">Report</a>  |  Code
   col_3:
     headline: Is sentiment among academic job seekers changing?
     slug: ''
