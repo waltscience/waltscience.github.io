@@ -94,7 +94,10 @@ page_sections:
   col_3:
     headline: 'Multi-model inference in R: A tutorial'
     slug: ''
-    content: ''
+    content: <a href="https://waltscienceblog.github.io/muminr/" title="MMI"><img
+      src="/uploads/2021/01/05/models.jpg"></a><br><a href="https://waltscienceblog.github.io/muminr/"
+      title="MMI report">Report</a>  |  <a href="https://github.com/waltscience/mumin-r"
+      title="MMI code">Code</a>
 - template: content-feature
   block: feature-1
   media_alignment: Right
