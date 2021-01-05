@@ -48,7 +48,7 @@ page_sections:
   slug: port
   headline: <strong>Portfolio </strong>of<span class="light"> analytics <br>projects
     and skills</span>
-  content: Visit my <a href="https://waltscienceblog.github.io" title="Articles">articles
+  content: Visit my <a href="https://waltscienceblog.github.io/" title="Articles">Articles
     page</a> for more projects
   media:
     image: "/uploads/2021/01/05/biglog.jpg"
