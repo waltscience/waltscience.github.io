@@ -121,7 +121,7 @@ page_sections:
     slug: ''
     content: ''
   col_3:
-    headline: ''
+    headline: Nitrogen interacts with light to increase forest bramble cover
     slug: ''
     content: ''
 - template: 3-column-text
