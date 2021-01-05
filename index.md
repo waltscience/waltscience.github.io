@@ -95,6 +95,36 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: ''
+    headline: ''
+    slug: ''
+  col_2:
+    headline: Contact
+    slug: ''
+    content: <a href="mailto:cwalte12@mail.wvu.edu" title="Mail"><img src="/uploads/2021/01/03/emailsmall.jpg"></a><a
+      href="https://www.linkedin.com/in/chriswalterphd" title="Linkedin"><img src="/uploads/2021/01/03/linkedinsmall.png"></a><a
+      href="https://github.com/waltscience" title="github"><img src="/uploads/2021/01/03/githubsmall.png"></a>
+  col_3:
+    headline: ''
+    slug: ''
+    content: Copyright © 2021<br>Chris Walter
+- template: 3-column-text
+  block: three-column-1
+  col_1:
     content: <a href="/" title="home"><img src="/uploads/2021/01/03/logosmall.jpg"></a>
     headline: ''
     slug: ''
@@ -108,35 +138,5 @@ page_sections:
     headline: ''
     slug: ''
     content: Copyright <strong>© </strong>2021<br>Chris Walter
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    slug: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
-  col_3:
-    headline: ''
-    slug: ''
-    content: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: <a href="https://chriswalter.info" title="Home"><img src="/uploads/2021/01/03/logosmall.jpg"></a>
-    headline: ''
-    slug: ''
-  col_2:
-    headline: Contact
-    slug: ''
-    content: <a href="mailto:cwalte12@mail.wvu.edu" title="Mail"><img src="/uploads/2021/01/03/emailsmall.jpg"></a><a
-      href="https://www.linkedin.com/in/chriswalterphd" title="Linkedin"><img src="/uploads/2021/01/03/linkedinsmall.png"></a><a
-      href="https://github.com/waltscience" title="github"><img src="/uploads/2021/01/03/githubsmall.png"></a>
-  col_3:
-    headline: ''
-    slug: ''
-    content: Copyright © 2021<br>Chris Walter
 
 ---
