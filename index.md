@@ -123,7 +123,10 @@ page_sections:
   col_2:
     headline: Interactions among plants, bacteria, and fungi under nitrogen fertilization
     slug: ''
-    content: "<em>Global Change Biology</em>"
+    content: <a href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Carrara%20et%20al._2018_Interactions%20among%20plants,%20bacteria,%20and%20fungi%20reduce%20extracellular%20enzyme%20activities%20under%20long-term%20N%20fertilizatio.pdf"
+      title="GCB"><em><img src="/uploads/2021/01/05/myco.jpg"></em></a><em><br></em><a
+      href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Carrara%20et%20al._2018_Interactions%20among%20plants,%20bacteria,%20and%20fungi%20reduce%20extracellular%20enzyme%20activities%20under%20long-term%20N%20fertilizatio.pdf"
+      title="GCB"><em>Global Change Biology</em></a>
   col_3:
     headline: Nitrogen interacts with light to increase forest bramble cover
     slug: ''
