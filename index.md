@@ -12,6 +12,8 @@ page_sections:
     link_text: Portfolio
   - link: https://chriswalter.info/#pubs
     link_text: Publications
+  - link: https://waltscienceblog.github.io/
+    link_text: Articles
   logo: "/uploads/2021/01/03/logo.jpg"
 - template: hero-banner-w-image
   block: hero-2
