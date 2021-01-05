@@ -10,7 +10,7 @@ page_sections:
     link_text: Home
   - link: "#port"
     link_text: Portfolio
-  - link: "#publications"
+  - link: "#pubs"
     link_text: Publications
   logo: "/uploads/2021/01/03/logo.jpg"
 - template: hero-banner-w-image
