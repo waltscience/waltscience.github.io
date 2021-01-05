@@ -55,7 +55,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Are fantasy football rankings accurate?
+    headline: How accurate are fantasy football rankings?
     slug: ''
     content: <a href="https://waltscienceblog.github.io/ffrankings/" title="ffranks"><img
       src="/uploads/2021/01/05/27nfl-rbs-1-jumbo-v2-2.jpg"></a><br><a href="https://waltscienceblog.github.io/ffrankings/"
