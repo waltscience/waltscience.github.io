@@ -1,5 +1,8 @@
 ---
 main:
+- url: https://chriswalter.info/#port
+  weight: 2
+  title: Portfolio
 - identifier: home
   url: "/"
   weight: 1
