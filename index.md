@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: https://chriswalter.info
     link_text: Home
-  - link: "#port"
+  - link: https://chriswalter.info/#port
     link_text: Portfolio
   - link: "#pubs"
     link_text: Publications
