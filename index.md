@@ -50,7 +50,7 @@ page_sections:
     page</a> for more projects
   media:
     image: "/uploads/2021/01/05/biglog.jpg"
-    alt_text: ''
+    alt_text: Network
   color: "#FFFFFF"
 - template: 3-column-text
   block: three-column-1
