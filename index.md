@@ -83,7 +83,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: publications
+  slug: pubs
   headline: <strong>Publications</strong><span class="light"> featuring<br>experimental
     design and modeling</span>
   content: Visit my <a href="https://scholar.google.com/citations?hl=en&amp;user=wfn0gRYAAAAJ&amp;view_op=list_works&amp;sortby=pubdate"
