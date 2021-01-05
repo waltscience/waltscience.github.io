@@ -57,7 +57,10 @@ page_sections:
   col_1:
     headline: Are fantasy football rankings accurate?
     slug: ''
-    content: ''
+    content: <a href="https://waltscienceblog.github.io/ffrankings/" title="ffranks"><img
+      src="/uploads/2021/01/05/27nfl-rbs-1-jumbo-v2-1.jpg"></a><br><a href="https://waltscienceblog.github.io/ffrankings/"
+      title="ffreport">Report</a>  |  <a href="https://github.com/waltscience/ffrankings"
+      title="ffcode">Code</a>
   col_2:
     headline: Are we changing the way we spend?
     slug: ''
