@@ -80,7 +80,10 @@ page_sections:
   col_1:
     headline: Do some people have more power than others do elect a president?
     slug: ''
-    content: ''
+    content: <a href="https://waltscienceblog.github.io/Voting-Power/" title="Voting
+      report"><img src="/uploads/2021/01/05/vote.jpg"></a><br><a href="https://waltscienceblog.github.io/Voting-Power/"
+      title="Voting report">Report</a>  |  <a href="https://github.com/waltscience/votepower"
+      title="Voting code">Code</a>
   col_2:
     headline: Does living in a healthy county protect you from coronavirus?
     slug: ''
