@@ -71,7 +71,10 @@ page_sections:
   col_3:
     headline: Is sentiment among academic job seekers changing?
     slug: ''
-    content: ''
+    content: <a href="https://waltscienceblog.github.io/ecosentiment/" title="Sentiment"><img
+      src="/uploads/2021/01/05/haavad.jpg"></a><br><a href="https://waltscienceblog.github.io/ecosentiment/"
+      title="Sentiment report">Report</a>  |  <a href="https://github.com/waltscience/ecosentiment"
+      title="Sentiment code">Code</a>
 - template: 3-column-text
   block: three-column-1
   col_1:
