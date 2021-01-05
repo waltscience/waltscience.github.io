@@ -50,7 +50,7 @@ page_sections:
     page</a> for more projects
   media:
     image: ''
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: ''
   color: "#FFFFFF"
 - template: 3-column-text
   block: three-column-1
