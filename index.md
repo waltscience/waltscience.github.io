@@ -127,7 +127,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: ''
+    content: "<em>Environmental Monitoring and Assessment</em>"
     headline: A reference-based approach for estimating leaf area and plant cover
     slug: ''
   col_2:
