@@ -137,7 +137,9 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: "<em>Environmental Monitoring and Assessment</em>"
+    content: <a href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Walter%20et%20al%202015%20A%20reference%20based%20approach%20for%20estimating%20leaf%20area%20and%20cover%20in%20the%20forest%20herbaceous%20layer.pdf"
+      title="EMA"><em><img src="/uploads/2021/01/05/cover.jpg"></em></a><em><br></em><a
+      href="" title=""><em>Environmental Monitoring and Assessment</em></a>
     headline: A reference-based approach for estimating leaf area and plant cover
     slug: ''
   col_2:
