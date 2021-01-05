@@ -119,7 +119,7 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: Copyright © 2021<br>Chris Walter
+    content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
