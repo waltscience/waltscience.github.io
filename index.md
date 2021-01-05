@@ -62,7 +62,7 @@ page_sections:
       title="ffreport">Report</a>  |  <a href="https://github.com/waltscience/ffrankings"
       title="ffcode">Code</a>
   col_2:
-    headline: Are we changing the way we spend?
+    headline: As our economy bottoms, are we changing the way we spend?
     slug: ''
     content: <a href="https://waltscienceblog.github.io/retailsales/" title="Retail"><img
       src="/uploads/2021/01/05/money-1.jpg"></a><br><a href="https://waltscienceblog.github.io/retailsales/"
