@@ -147,9 +147,9 @@ page_sections:
     headline: Predicted species distribution in adaptive and conventional sampling
       designs
     slug: ''
-    content: <a href="https://www.researchgate.net/profile/David_Smith47/publication/230123516_Incorporating_predicted_species_distribution_in_conventional_and_adaptive_sampling_designs/links/09e41501a9dbf65d83000000/Incorporating-predicted-species-distribution-in-conventional-and-adaptive-sampling-designs.pdf"
+    content: <a href="https://www.researchgate.net/publication/230123516_Incorporating_predicted_species_distribution_in_conventional_and_adaptive_sampling_designs"
       title="Cambridge"><em><img src="/uploads/2021/01/05/sda.jpg"></em></a><em><br></em><a
-      href="https://www.researchgate.net/profile/David_Smith47/publication/230123516_Incorporating_predicted_species_distribution_in_conventional_and_adaptive_sampling_designs/links/09e41501a9dbf65d83000000/Incorporating-predicted-species-distribution-in-conventional-and-adaptive-sampling-designs.pdf"
+      href="https://www.researchgate.net/publication/230123516_Incorporating_predicted_species_distribution_in_conventional_and_adaptive_sampling_designs"
       title="Cambridge"><em>Design and Analysis of Long-Term Ecological Monitoring
       Studies</em></a>
   col_3:
