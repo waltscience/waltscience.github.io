@@ -89,8 +89,8 @@ page_sections:
   content: Visit my <a href="https://scholar.google.com/citations?hl=en&amp;user=wfn0gRYAAAAJ&amp;view_op=list_works&amp;sortby=pubdate"
     title="Google citations">google scholar page</a> for<br>a complete list of publications
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2021/01/05/biglogflip.jpg"
+    alt_text: Network
   color: "#FFFFFF"
 - template: 3-column-text
   block: three-column-1
