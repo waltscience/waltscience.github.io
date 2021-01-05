@@ -3,7 +3,7 @@ title: Chris Walter
 author: chriswalter.info
 email: cwalte12@mail.wvu.edu
 description: Landing page for Chris Walter
-baseurl: "/waltscience.github.io"
+baseurl: chriswalter.info
 url: chriswalter.info
 defaults:
 - scope:
