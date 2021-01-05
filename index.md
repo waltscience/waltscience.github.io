@@ -113,11 +113,9 @@ page_sections:
     headline: ''
     slug: ''
   col_2:
-    headline: Contact
+    headline: ''
     slug: ''
-    content: <a href="mailto:cwalte12@mail.wvu.edu" title="Mail"><img src="/uploads/2021/01/03/emailsmall.jpg"></a><a
-      href="https://www.linkedin.com/in/chriswalterphd" title="Linkedin"><img src="/uploads/2021/01/03/linkedinsmall.png"></a><a
-      href="https://github.com/waltscience" title="github"><img src="/uploads/2021/01/03/githubsmall.png"></a>
+    content: ''
   col_3:
     headline: ''
     slug: ''
