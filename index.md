@@ -10,7 +10,7 @@ page_sections:
     link_text: Home
   - link: https://chriswalter.info/#port
     link_text: Portfolio
-  - link: "#pubs"
+  - link: https://chriswalter.info/#pubs
     link_text: Publications
   logo: "/uploads/2021/01/03/logo.jpg"
 - template: hero-banner-w-image
