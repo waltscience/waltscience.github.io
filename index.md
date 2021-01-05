@@ -136,9 +136,9 @@ page_sections:
     slug: ''
     content: Design and Analysis of Long-Term Ecological Monitoring Studies
   col_3:
-    headline: ''
+    headline: 'Nitrogen dynamics of soil during 25 years of nitrogen addition '
     slug: ''
-    content: ''
+    content: "<em>Ecosystems</em>"
 - template: 3-column-text
   block: three-column-1
   col_1:
