@@ -64,7 +64,7 @@ page_sections:
   col_2:
     headline: Are we changing the way we spend?
     slug: ''
-    content: ''
+    content: <img src="/uploads/2021/01/05/money.jpg">
   col_3:
     headline: Is sentiment among academic job seekers changing?
     slug: ''
