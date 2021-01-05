@@ -131,7 +131,8 @@ page_sections:
     headline: A reference-based approach for estimating leaf area and plant cover
     slug: ''
   col_2:
-    headline: ''
+    headline: Predicted species distribution in adaptive and conventional sampling
+      designs
     slug: ''
     content: ''
   col_3:
