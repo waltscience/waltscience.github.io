@@ -170,7 +170,10 @@ page_sections:
   col_2:
     content: <a href="mailto:cwalte12@mail.wvu.edu" title="email2"><img src="/uploads/2021/01/03/emailsmall.jpg"></a><a
       href="https://linkedin.com/in/chriswalterphd" title="linkedin2"><img src="/uploads/2021/01/03/linkedinsmall.png"></a><a
-      href="https://github.com/waltscience" title="github2"><img src="/uploads/2021/01/03/githubsmall.png"></a>
+      href="https://github.com/waltscience" title="github2"><img src="/uploads/2021/01/03/githubsmall.png"></a><br><a
+      href="https://chriswalter.info" title="Home">Home</a> | <a href="https://chriswalter.info/#port"
+      title="Portfolio">Portfolio</a> | <a href="https://chriswalter.info/#pubs" title="Publications">Publications</a>
+      | <a href="https://waltscienceblog.github.io/" title="Articles">Articles</a>
     headline: Contact
     slug: contact
   col_3:
