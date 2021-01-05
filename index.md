@@ -130,7 +130,10 @@ page_sections:
   col_3:
     headline: Nitrogen interacts with light to increase forest bramble cover
     slug: ''
-    content: "<em>Plant Ecology</em>"
+    content: <a href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Walter%20et%20al%202016%20Nitrogen%20fertilization%20interacts%20with%20light%20to%20increase%20Rubus%20spp%20cover%20in%20a%20temperate%20forest.pdf"
+      title="Plant Ecology"><em><img src="/uploads/2021/01/05/canopy.jpg"></em></a><em><br></em><a
+      href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Walter%20et%20al%202016%20Nitrogen%20fertilization%20interacts%20with%20light%20to%20increase%20Rubus%20spp%20cover%20in%20a%20temperate%20forest.pdf"
+      title="Plant Ecology"><em>Plant Ecology</em></a>
 - template: 3-column-text
   block: three-column-1
   col_1:
