@@ -155,7 +155,7 @@ page_sections:
     headline: 'Nitrogen dynamics of soil during 25 years of nitrogen addition '
     slug: ''
     content: <a href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Gilliam%20et%20al%202018%20Nitrogen%20(N)%20Dynamics%20in%20the%20Mineral%20Soil.pdf"
-      title="Ecosystems"><em><img src="/uploads/2021/01/05/sheds.jpg"></em></a><em><br></em><a
+      title="Ecosystems"><em><img src="/uploads/2021/01/05/sheds2.jpg"></em></a><em><br></em><a
       href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Gilliam%20et%20al%202018%20Nitrogen%20(N)%20Dynamics%20in%20the%20Mineral%20Soil.pdf"
       title="Ecosystems"><em>Ecosystems</em></a>
 - template: 3-column-text
