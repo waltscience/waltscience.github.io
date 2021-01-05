@@ -104,8 +104,8 @@ page_sections:
   slug: pubs
   headline: <strong>Publications</strong><span class="light"> featuring<br>experimental
     design and modeling</span>
-  content: Visit my <a href="https://scholar.google.com/citations?hl=en&amp;user=wfn0gRYAAAAJ&amp;view_op=list_works&amp;sortby=pubdate"
-    title="Google citations">google scholar page</a> for<br>a complete list of publications
+  content: Visit my <a href="https://scholar.google.com/citations?user=wfn0gRYAAAAJ&amp;hl=en#"
+    title="Google Scholar">Google Scholar page</a> for<br>a complete list of publications
   media:
     image: "/uploads/2021/01/05/biglogflip.jpg"
     alt_text: Network
