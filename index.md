@@ -49,7 +49,7 @@ page_sections:
   content: Visit my <a href="https://waltscienceblog.github.io" title="Articles">articles
     page</a> for more projects
   media:
-    image: ''
+    image: "/uploads/2021/01/05/biglog.jpg"
     alt_text: ''
   color: "#FFFFFF"
 - template: 3-column-text
