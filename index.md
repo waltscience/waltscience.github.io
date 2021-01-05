@@ -87,7 +87,10 @@ page_sections:
   col_2:
     headline: Does living in a healthy county protect you from coronavirus?
     slug: ''
-    content: ''
+    content: <a href="https://waltscienceblog.github.io/countyhealth/" title="Health"><img
+      src="/uploads/2021/01/05/counties.jpg"></a><br><a href="https://waltscienceblog.github.io/countyhealth/"
+      title="Health report">Report</a>  |  <a href="https://github.com/waltscience/countyhealth"
+      title="Health code">Code</a>
   col_3:
     headline: 'Multi-model inference in R: A tutorial'
     slug: ''
