@@ -55,20 +55,6 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Do some people have more power than others do elect a president?
-    slug: ''
-    content: ''
-  col_2:
-    headline: Does living in a healthy county protect you from coronavirus?
-    slug: ''
-    content: ''
-  col_3:
-    headline: 'Multi-model inference in R: A tutorial'
-    slug: ''
-    content: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
     headline: Are fantasy football rankings accurate?
     slug: ''
     content: ''
@@ -78,6 +64,20 @@ page_sections:
     content: ''
   col_3:
     headline: Is sentiment among academic job seekers changing?
+    slug: ''
+    content: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Do some people have more power than others do elect a president?
+    slug: ''
+    content: ''
+  col_2:
+    headline: Does living in a healthy county protect you from coronavirus?
+    slug: ''
+    content: ''
+  col_3:
+    headline: 'Multi-model inference in R: A tutorial'
     slug: ''
     content: ''
 - template: content-feature
