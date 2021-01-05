@@ -82,7 +82,7 @@ page_sections:
     content: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   slug: publications
   headline: <strong>Publications</strong><span class="light"> featuring<br>experimental
     design and modeling</span>
