@@ -92,7 +92,7 @@ page_sections:
       title="Health report">Report</a>  |  <a href="https://github.com/waltscience/countyhealth"
       title="Health code">Code</a>
   col_3:
-    headline: 'Multi-model inference in R: A tutorial'
+    headline: 'Using multi-model inference in R: A tutorial'
     slug: ''
     content: <a href="https://waltscienceblog.github.io/muminr/" title="MMI"><img
       src="/uploads/2021/01/05/models.jpg"></a><br><a href="https://waltscienceblog.github.io/muminr/"
