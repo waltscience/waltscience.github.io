@@ -123,7 +123,7 @@ page_sections:
   col_3:
     headline: Nitrogen interacts with light to increase forest bramble cover
     slug: ''
-    content: "<em>Ecology</em>"
+    content: "<em>Plant Ecology</em>"
 - template: 3-column-text
   block: three-column-1
   col_1:
