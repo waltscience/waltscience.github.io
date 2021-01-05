@@ -134,7 +134,7 @@ page_sections:
     headline: Predicted species distribution in adaptive and conventional sampling
       designs
     slug: ''
-    content: ''
+    content: Design and Analysis of Long-Term Ecological Monitoring Studies
   col_3:
     headline: ''
     slug: ''
