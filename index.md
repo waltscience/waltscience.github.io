@@ -43,7 +43,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: portfolio
+  slug: port
   headline: <strong>Portfolio </strong>of<span class="light"> analytics <br>projects
     and skills</span>
   content: Visit my <a href="https://waltscienceblog.github.io" title="Articles">articles
