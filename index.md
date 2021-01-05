@@ -116,7 +116,10 @@ page_sections:
   col_1:
     headline: Non-random species loss in a forest herbaceous layer
     slug: ''
-    content: "<em>Ecology</em>"
+    content: <a href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Walter%20et%20al._2017_Non-random%20species%20loss%20in%20a%20forest%20herbaceous%20layer%20following%20nitrogen%20addition.pdf"
+      title="Ecology"><em><img src="/uploads/2021/01/05/herbs.jpg"></em></a><em><br></em><a
+      href="http://www.as.wvu.edu/fernow/Assests/Fernow%20Papers/Walter%20et%20al._2017_Non-random%20species%20loss%20in%20a%20forest%20herbaceous%20layer%20following%20nitrogen%20addition.pdf"
+      title="Ecology"><em>Ecology</em></a>
   col_2:
     headline: Interactions among plants, bacteria, and fungi under nitrogen fertilization
     slug: ''
