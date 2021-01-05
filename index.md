@@ -117,7 +117,7 @@ page_sections:
     slug: ''
     content: ''
   col_2:
-    headline: ''
+    headline: Interactions among plants, bacteria, and fungi under nitrogen fertilization
     slug: ''
     content: ''
   col_3:
