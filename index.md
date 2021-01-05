@@ -49,9 +49,9 @@ page_sections:
   content: Visit my <a href="https://waltscienceblog.github.io" title="Articles">articles
     page</a> for more projects
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: ''
     alt_text: uBuild Blocks Mock-Up
-  color: "#F5A623"
+  color: "#FFFFFF"
 - template: 3-column-text
   block: three-column-1
   col_1:
