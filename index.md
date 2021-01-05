@@ -119,7 +119,7 @@ page_sections:
   col_2:
     headline: Interactions among plants, bacteria, and fungi under nitrogen fertilization
     slug: ''
-    content: ''
+    content: "<em>Global Change Biology</em>"
   col_3:
     headline: Nitrogen interacts with light to increase forest bramble cover
     slug: ''
