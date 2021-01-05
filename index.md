@@ -128,7 +128,7 @@ page_sections:
   block: three-column-1
   col_1:
     content: ''
-    headline: ''
+    headline: A reference-based approach for estimating leaf area and plant cover
     slug: ''
   col_2:
     headline: ''
