@@ -6,7 +6,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "/"
+  - link: https:/chriswalter.info
     link_text: Home
   - link: "#portfolio"
     link_text: Portfolio
