@@ -115,7 +115,7 @@ page_sections:
   col_1:
     headline: Non-random species loss in a forest herbaceous layer
     slug: ''
-    content: ''
+    content: "<em>Ecology</em>"
   col_2:
     headline: Interactions among plants, bacteria, and fungi under nitrogen fertilization
     slug: ''
