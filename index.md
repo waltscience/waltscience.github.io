@@ -134,7 +134,7 @@ page_sections:
     headline: Predicted species distribution in adaptive and conventional sampling
       designs
     slug: ''
-    content: Design and Analysis of Long-Term Ecological Monitoring Studies
+    content: "<em>Design and Analysis of Long-Term Ecological Monitoring Studies</em>"
   col_3:
     headline: 'Nitrogen dynamics of soil during 25 years of nitrogen addition '
     slug: ''
