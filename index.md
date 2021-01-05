@@ -137,6 +137,6 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: Copyright © 2021<br>Chris Walter
 
 ---
