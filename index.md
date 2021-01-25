@@ -23,7 +23,7 @@ page_sections:
   cta:
     enabled: true
     url: https://linkedin.com/in/chriswalterphd
-    button_text: Connect on linkedin
+    button_text: Connect on Linkedin
   image:
     image: "/uploads/2021/01/03/screen-shot-2021-01-03-at-5-39-11-pm.png"
     alt_text: Chris
