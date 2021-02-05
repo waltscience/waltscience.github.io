@@ -5,6 +5,7 @@ email: cwalte12@mail.wvu.edu
 description: Chris Walter - Data-driven insight
 baseurl: "/waltscience.github.io"
 url: chriswalter.info
+google_analytics: UA-108878913-2
 defaults:
 - scope:
     path: ''
