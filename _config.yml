@@ -7,7 +7,7 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Chris Walter, Ph.D."
+  author: "Chris Walter"
   # tagline will appear under the title (optional)
   tagline: "Data research scientist at West Virginia University"
   # if include_content is true, the contents of the content.html include will be
