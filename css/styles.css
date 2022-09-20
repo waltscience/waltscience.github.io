@@ -11459,6 +11459,7 @@ html {
   }
 }
 .portfolio .portfolio-item {
+  pointer-events: none;
   position: relative;
   display: block;
   max-width: 25rem;
